@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/FilterColumnChooser/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/FilterColumnChooser/MainWindow.xaml))**
+* [MainWindow.xaml.cs](./CS/FilterColumnChooser/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/FilterColumnChooser/MainWindow.xaml))
+* [Task.cs](./CS/FilterColumnChooser/Task.cs) (VB: [Task.vb](./VB/FilterColumnChooser/Task.vb))
+<!-- default file list end -->
 # How to create a Column Chooser with column filtering
 
 
