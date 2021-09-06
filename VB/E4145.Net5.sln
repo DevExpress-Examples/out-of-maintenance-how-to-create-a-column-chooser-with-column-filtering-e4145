@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilterColumnChooser", "FilterColumnChooser\FilterColumnChooser.csproj", "{FFA75974-A4D8-4770-B035-4EB3EC228EF5}"
+# Visual Studio 16
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FilterColumnChooser", "FilterColumnChooser\FilterColumnChooser.Net5.vbproj", "{FFA75974-A4D8-4770-B035-4EB3EC228EF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
